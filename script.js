@@ -12,10 +12,6 @@ const contacts = [
 
 ]
 
-for (let i = 0; i < contacts.length; i++) {
-
-}
-
 function nome() {
 
     for (let i = 0; i < contacts.length; i++) {
