@@ -8,7 +8,7 @@ const contacts = [
     { name: "Rosana", number: "(18) 9 9999-9999" },
     { name: "Bruna", number: "(17) 9 9999-9999" },
     { name: "Philipe", number: "(16) 9 9999-9999" },
-    { name: "Raphael", number: "(15) 9 9999-9999" },
+    { name: "Raphael", number: "(14) 9 9999-9999" },
 
 ]
 
@@ -26,6 +26,7 @@ function nome() {
                            ${contacts[i].number}`
 
             break
+            
         } else{p.innerHTML = "Contato não localizado"
 
         }
